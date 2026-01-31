@@ -1,6 +1,7 @@
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/config/SecurityConfig.java
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/model/AiSuggestion.java
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/service/AiService.java
+/Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/controller/HomeController.java
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/controller/AiController.java
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/model/ChatRequest.java
 /Users/juliawang/Desktop/Chronus-AI-Trae-Hackathon/Chronus-AI/backend/src/main/java/com/chronus/ai/model/ChatResponse.java
