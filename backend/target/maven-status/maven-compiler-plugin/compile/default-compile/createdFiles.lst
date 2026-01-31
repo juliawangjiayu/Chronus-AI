@@ -1,0 +1,8 @@
+com/chronus/ai/model/ChatResponse.class
+com/chronus/ai/model/AiSuggestion.class
+com/chronus/ai/ChronusAiApplication.class
+com/chronus/ai/service/AiService.class
+com/chronus/ai/controller/AiController.class
+com/chronus/ai/model/ChatRequest.class
+com/chronus/ai/config/WebConfig.class
+com/chronus/ai/config/SecurityConfig.class
